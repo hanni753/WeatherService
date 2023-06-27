@@ -26,7 +26,7 @@ public class WeatherController {
                     tag.setDatum("2023-03-06");
                     break;
                 case 1: tag.setName("Dienstag");
-                    tag.setDatum("2023-03-07")          ;
+                    tag.setDatum("2023-03-07");
                     break;
                 case 2: tag.setName("Mittwoch");
                     tag.setDatum("2023-03-08");
